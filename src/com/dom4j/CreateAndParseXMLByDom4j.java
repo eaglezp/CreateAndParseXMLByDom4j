@@ -15,7 +15,7 @@ import java.io.OutputStreamWriter;
 import java.util.Iterator;
 import java.util.List;
 
-public class ParseXMLByDom4j {
+public class CreateAndParseXMLByDom4j {
 
     @Test
     public void readXMLDemo() throws Exception {
