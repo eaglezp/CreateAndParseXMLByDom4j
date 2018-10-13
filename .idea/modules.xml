@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ParseXmlNyDom4j.iml" filepath="$PROJECT_DIR$/ParseXmlNyDom4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreateAndParseXmlByDom4j.iml" filepath="$PROJECT_DIR$/CreateAndParseXmlByDom4j.iml" />
     </modules>
   </component>
 </project>
